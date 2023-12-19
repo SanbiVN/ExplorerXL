@@ -1,7 +1,7 @@
 # ExplorerXL
  Quản lý tập tin với Excel
 
-[Click để tải về 2.21](https://github.com/SanbiVN/ExplorerXL/releases/download/ExplorerXL/ExplorerXL_v2.21.zip)
+[Click để tải về 2.21](https://github.com/SanbiVN/ExplorerXL/releases/download/ExplorerXL/ExplorerXL_v2.21.xlsm)
 
 [![Github All Releases](https://img.shields.io/github/downloads/SanbiVN/ExplorerXL/total.svg)]()
 
